@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.hero-section{
+    background-image: url("https://res.cloudinary.com/dtyoq5yod/image/upload/v1787239232/SCR-20260820-sbdj_y9wp26.jpg");
+    height: 100vh;
+    width: 100vw;
+
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-content{
+    text-align: center;
+    padding-top:80px ;
+}
+.heading-1{
+    color: #691a13;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+.heading-2{
+    color: #f05f39;
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: 0px;
+}
+.hero-description{
+    font-family: roboto;
+    font-family: 45px;
+    color: #6C7673;
+    margin-bottom: 30px;
+}
+.primary-btn{
+    background-color: #f05f39;
+    color: white;
+    font-family: roboto;
+    border-width: 0px;
+    padding: 16px;
+    border-radius: 16px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.secondary-btn{
+    background-color:transparent;
+    color: #691A13;
+    font-family: roboto;
+    border-width: 2px;
+    padding: 16px;
+    border-radius: 16px;
+    font-size: 15px;
+    border-color: #691A13 ;
+    font-weight: bold;
+}
